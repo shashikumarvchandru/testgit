@@ -1,4 +1,4 @@
 <?php
 phpinfo();
-echo "Branch : Main"; 
+echo "Main : Branch"; 
 ?>
